@@ -1,0 +1,39 @@
+{
+  "name": "react-i18n-t",
+  "version": "0.1.0",
+  "description": "Reactive i18n manager for React",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscosolla/react-i18n-t.git"
+  },
+  "keywords": [
+    "React",
+    "react",
+    "react-native",
+    "locale",
+    "i18n",
+    "i18n-t",
+    "internationalization",
+    "internationalisation",
+    "localization",
+    "localisation",
+    "globalization",
+    "globalisation",
+    "translation",
+    "translate"
+  ],
+  "author": "Francisco Ignacio Fontoura Solla <francisco.solla@gmail.com> (https://github.com/franciscosolla)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/franciscosolla/react-i18n-t/issues"
+  },
+  "homepage": "https://github.com/franciscosolla/react-i18n-t#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.43",
+    "react": "^16.13.1",
+    "rxjs": "^6.6.0"
+  }
+}
